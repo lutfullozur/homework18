@@ -1,0 +1,405 @@
+.back {
+  background-image: url(./main-screen__bgc.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+* {
+  margin: 0;
+}
+
+.header {
+  display: flex;
+  padding-top: 30px;
+}
+
+.nav {
+  color: white;
+  cursor: pointer;
+}
+
+#menu {
+  margin-left: 160px;
+  padding: 5px;
+  margin-top: -10px;
+  color: white;
+  border-radius: 10px;
+  background: linear-gradient(#C89AFC, #7C6AFA);
+}
+
+.itemhover:hover {
+  border-bottom: 3px solid blueviolet;
+}
+
+#menu:hover {
+  background: linear-gradient(rgb(96, 24, 24), pink);
+  transition: 1s;
+}
+
+.info {
+  font-size: 35px;
+  color: white;
+  margin-left: 110px;
+  margin-top: 150px;
+}
+
+.item {
+  padding-left: 15px;
+  padding-left: 130px;
+}
+
+.itemiconka {
+  margin-top: -10px;
+  margin-left: 30px;
+}
+
+.itemtime {
+  width: 100px;
+  height: 100px;
+  background-color: #121212;
+  margin-left: 30px;
+}
+
+.time {
+  display: flex;
+  margin-left: 80px;
+  margin-top: 40px;
+}
+
+.day {
+  font-size: 35px;
+  text-align: center;
+  color: white;
+  padding-top: 25px;
+  font-weight: 600;
+}
+
+.day1 {
+  margin-top: -20px;
+  font-size: 15px;
+  text-align: center;
+  color: gray;
+  padding-top: 25px;
+}
+
+.container {
+  width: 1200px;
+  height: 540px;
+  display: flex;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+
+body {
+  background-color: black;
+}
+
+.right {
+  color: rgb(255, 255, 255);
+  width: 1200px;
+  height: 540px;
+  margin-left: 50px;
+}
+
+.how {
+  font-size: 45px;
+  padding-top: 120px;
+  margin-left: 200px;
+}
+
+.lorem3 {
+  font-size: 45px;
+  margin-top: 100px;
+}
+
+.lorem4 {
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+.bist {
+  color: white;
+  font-size: 25px;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.divdraduga {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 80px;
+}
+
+.flex5 {
+  margin-left: -160px;
+  margin-top: -1px;
+  padding: 80px;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+}
+
+.fle1 {
+  background: linear-gradient(#C89AFC, #7C6AFA);
+  width: 290px;
+  height: 100px;
+}
+
+.fle2 {
+  margin-top: 10px;
+  background: linear-gradient(#C89AFC, #7C6AFA);
+  width: 250px;
+  height: 75px;
+}
+
+.fle3 {
+  margin-top: 25px;
+  background: linear-gradient(#C89AFC, #7C6AFA);
+  width: 250px;
+  height: 50px;
+}
+
+.fle4 {
+  margin-top: 35px;
+  background: linear-gradient(#C89AFC, #7C6AFA);
+  width: 250px;
+  height: 25px;
+}
+
+.fl1 {
+  margin-top: -125px;
+  padding: 0px 7px;
+  font-size: 15px;
+  color: gray;
+}
+
+.itemseta {
+  margin-left: 50px;
+  width: 250px;
+  height: 270px;
+  background-color: rgb(0, 0, 0);
+  border: 1px solid black;
+}
+
+.seta3 {
+  display: flex;
+  margin-left: 300px;
+  margin-top: 50px;
+}
+
+.ser {
+  margin-left: 70px;
+  margin-top: 30px;
+}
+
+.tolko {
+  font-size: 25px;
+  color: white;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+.adda {
+  color: white;
+  margin-left: 10px;
+  margin-top: 25px;
+}
+
+.brenda {
+  display: flex;
+  margin-top: 140px;
+  margin-left: 100px;
+}
+
+.msi {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.aadaada {
+  display: flex;
+}
+
+.itemmsi {
+  margin-left: 50px;
+  border: 1px solid #FFFFFF;
+  border-top: none;
+}
+
+.itemmsi1 {
+  margin-left: 50px;
+  border: 1px solid #FFFFFF;
+  border-top: none;
+  border-bottom: none;
+}
+
+.centerelogo {
+  margin-left: 650px;
+  margin-top: 160px;
+}
+
+.itemzaebok {
+  width: 300px;
+  color: white;
+  height: 100px;
+  margin-left: 350px;
+  margin-top: 100px;
+}
+
+.divasa {
+  width: 5px;
+  height: 770px;
+  color: #7C6AFA;
+  background-color: #7C6AFA;
+  justify-content: center;
+  margin-left: 720px;
+  margin-top: -760px;
+}
+
+.nedela {
+  margin-left: 230px;
+  color: gray;
+}
+
+.krasotka {
+  margin-left: 100px;
+}
+
+.rightzaebok {
+  margin-left: 400px;
+  margin-top: -800px;
+}
+
+.teacher {
+  display: flex;
+  margin-left: 100px;
+}
+
+.sutao {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.input {
+  display: flex;
+  margin-top: 50px;
+}
+
+.iteinput1 {
+  margin-left: 550px;
+}
+
+.inputm2 {
+  width: 500px;
+}
+
+@media (max-width: 768px) {
+  .nav {
+    font-size: 60px;
+  }
+  .kila {
+    width: 200px;
+  }
+  .itemiconka {
+    display: none;
+  }
+  .item1 {
+    display: none;
+  }
+  .day {
+    font-size: 100px;
+    margin-top: -30px;
+  }
+  .day1 {
+    font-size: 60px;
+    margin-left: -40px;
+    padding-left: 40px;
+    display: none;
+  }
+  .container {
+    margin-top: 155px;
+  }
+  .lorem3 {
+    font-size: 80px;
+    margin-top: -110px;
+  }
+  .lorem4 {
+    font-size: 30px;
+  }
+  .raduga {
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top: -30px;
+  }
+  .flex5 {
+    display: none;
+  }
+  .bist {
+    display: none;
+  }
+  .dkkskjk {
+    display: none;
+  }
+  .ser {
+    width: 200px;
+  }
+  .tolko {
+    font-size: 40px;
+  }
+  .adda {
+    font-size: 30px;
+    display: none;
+  }
+  .itembrend {
+    display: none;
+  }
+  .msi {
+    display: none;
+  }
+  .shamsullo {
+    margin-left: -300px;
+    font-size: 110px;
+    display: none;
+  }
+  .lif {
+    display: none;
+    font-size: 50px;
+    color: black;
+  }
+  .asdasdad {
+    font-size: 35px;
+  }
+  .leftzaebok {
+    margin-left: -200px;
+  }
+  .divasa {
+    margin-left: -10px;
+  }
+  .sutao {
+    margin-top: 300px;
+    margin-left: 700px;
+  }
+  .itmsuat {
+    margin-left: 100px;
+  }
+  .sasas {
+    width: 300px;
+  }
+  .saza {
+    font-size: 50px;
+  }
+  .itemteacher {
+    display: none;
+  }
+  .asdfghl {
+    font-size: 50px;
+    margin-left: 140px;
+  }
+  .facebook {
+    width: 300px;
+  }
+}/*# sourceMappingURL=main.css.map */
